@@ -198,7 +198,7 @@ ol {
   block-size: 298px;
 }
 .content__list-item:not(:last-of-type) {
-  margin-block-end: 34px;
+  margin-block-end: 35px;
 }
 .content__card-link {
   display: block;
